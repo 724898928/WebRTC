@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="webRTC_host">ws://192.168.1.51:8806/socket</string>
+    <string name="webRTC_port">8806</string>
+    <string name="webRTC_stun">stun:stun.l.google.com:19302</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="connecting_to">Connecting to: %1$s</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="pref_speakerphone_key">speakerphone_preference</string>
+</resources>
